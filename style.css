@@ -1,0 +1,400 @@
+body{
+
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fjw-webmagazine.com%2Fbest-anime%2F&psig=AOvVaw34ELifjDvzQIGBKCIIrjwV&ust=1635402900330000&source=images&cd=vfe&ved=0CAsQjRxqGAoTCJi6yN386fMCFQAAAAAdAAAAABDVAQ);
+    
+    
+    
+    
+    
+    }
+    .GOKU{
+        cursor: click;
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        float: right;
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    }
+    .SAITAMA{
+    
+        cursor: click;
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        float: left;
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    }                         
+    
+    .Naruto:hover{ 
+        background-color: red;
+       
+    }
+    .GOKU:hover{
+    background-color: red;
+    
+    }
+    
+    .SAITAMA:hover{
+    
+        background-color: rgb(41, 201, 41);
+        }
+    
+    .Naruto{
+        
+    cursor: click;
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        float: left;
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    
+    }
+    
+    .DragonBallSeries:hover{
+    
+    background-color: rgb(41, 201, 41);
+    }
+    .DragonBallSeries{
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        float: RIGHT;
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    }
+    
+    
+    .SAZAESAN{
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        float: RIGHT;
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    
+    
+    }
+    .SAZAESAN:hover{
+    
+        background-color: rgb(34, 184, 34);
+    }
+    .SONGOKU:hover{
+    
+        background-color: red;
+    }
+    .PLAY{
+    
+        
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    }
+    .SONGOKU{
+    
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        float: left; 
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    }
+    .OH{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        float: left;
+        text-transform: capitalize;
+        font-weight: bolder;
+    
+    color: white;
+    font-size: 45px;
+    }
+    .QUESTIONS{
+        float: left;
+        text-transform: capitalize;
+        font-weight: bolder;
+    font-family:monospace;
+    color: white;
+    font-size: 45px;
+    
+    
+    }
+    .NARUTO1{margin: 10px;
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        float: RIGHT;
+        
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    
+    
+    }
+    .NARUTO1:hover{
+    background-color: rgb(22, 218, 22);
+    
+    }
+    .SAITAMA1:hover{
+    
+    background-color: red;
+    
+    }
+    .SAITAMA1{
+        margin: 10px;
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        float: left;
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    
+    }
+    .TWO{
+    
+        float: left;
+    }
+    .QUESTWO{
+    float: left;
+        
+       
+        font-weight: bolder;
+    font-family:monospace;
+    color: white;
+    font-size: 45px;
+    }
+    .QUESTHR{
+    
+    
+        float: left;
+        text-transform: capitalize;
+        font-weight: bolder;
+    font-family:monospace;
+    color: white;
+    font-size: 45px;
+    }
+    .QUESONE{
+        float: left;
+        text-transform: capitalize;
+        font-weight: bolder;
+    font-family:monospace;
+    color: white;
+    font-size: 45px;
+    }
+    .note{
+     text-align: center;
+     font-size: 20px;
+    color: white;
+    text-transform: capitalize;
+    text-decoration: dotted;
+    }
+    .GAME{
+    
+        margin:10px ;
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        font-size: 45px;
+    text-align: center;
+    color: white;
+    }
+    
+    body{
+    
+    
+        background-color: black;
+    }
+    
+    .active{
+    
+    background-color: black;
+    
+    }
+    .TOPNAV{
+        position: absolute;
+        top: 8px;
+        right: 16px;
+        text-align: right;
+        float: right;
+    width: 100%;
+    padding: 14PX 16px;
+    
+    
+    
+    }
+    
+    
+    .ONPUNCHMAN1:hover{
+    background-color: rgb(22, 221, 22);
+    
+    }
+    
+    .DEATHNOTE:hover{
+    
+    background-color: red;
+    }
+    .ONPUNCHMAN1{
+        margin: 10PX;
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        float:left;
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    }
+    h1{color: white;
+        background-color: black;
+        font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    
+    }
+    
+    .DEATHNOTE{
+        margin: 10px;
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        float: right;
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    
+    }
+    .DragonBallSeries1:hover{
+    
+        background-color: red;
+    }
+    .DragonBallSeries1{
+    
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        float:left;
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    
+    }
+    .DEATHNOTE1{
+    
+        font-family: cursive;
+        font-weight: bolder;
+        text-transform: capitalize;
+        text-shadow: 30px;
+        float: right;
+        font-size: larger;
+        display: block;
+        background-color: aqua;
+    block-size: 200px;
+    width: 300px;
+    height: 100px;
+    
+    }
+    .DEATHNOTE1:hover{
+    
+        background-color: rgb(25, 226, 25);
+    }
+    .copyright1{
+        background-color: white;
+        text-align: center;
+        padding: auto;
+        margin: auto;
+        color: black;
+        font-size: 45px;
+        font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    }
+    .copyright{
+        font-weight: bolder;
+        background-color: grey;
+        padding: 0px;
+        margin: 0px;
+      font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    
+    }
+    .TOPNAV a{
+                                                                                          
+    
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        width: 100%;
+        padding: 14px 16px;
+        }
+    
+    
+        
+    .TOPNAV a{
+        font-weight: bolder;
+        font-family: cursive;
+    color:wheat;
+    }
+    .TOPNAV a:hover{
+    
+    background-color: black;
+    color: yellow;
+    }
+    
